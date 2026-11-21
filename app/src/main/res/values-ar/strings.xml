@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProDM</string>
+    <string name="tab_downloads">التحميلات</string>
+    <string name="tab_browser">المتصفح</string>
+    <string name="tab_settings">الإعدادات</string>
+
+    <string name="filter_all">الكل</string>
+    <string name="filter_active">نشطة</string>
+    <string name="filter_paused">متوقفة</string>
+    <string name="filter_completed">مكتملة</string>
+    <string name="filter_failed">فاشلة</string>
+
+    <string name="status_queued">في الانتظار</string>
+    <string name="status_downloading">جارٍ التحميل</string>
+    <string name="status_paused">متوقف مؤقتاً</string>
+    <string name="status_completed">مكتمل</string>
+    <string name="status_failed">فشل</string>
+    <string name="status_scheduled">مجدول</string>
+    <string name="status_finalizing">جارٍ حفظ الملف…</string>
+
+    <string name="total_speed">السرعة الإجمالية</string>
+    <string name="stat_active">نشطة</string>
+    <string name="stat_waiting">منتظرة</string>
+    <string name="stat_done">مكتملة</string>
+
+    <string name="add_title">تحميل جديد</string>
+    <string name="add_hint">الصق رابطاً أو أكثر (كل رابط في سطر)</string>
+    <string name="add_filename">اسم الملف (اختياري)</string>
+    <string name="add_later">ابدأ لاحقاً في الوقت المجدول</string>
+    <string name="add_start">تحميل</string>
+    <string name="cancel">إلغاء</string>
+    <string name="paste">لصق</string>
+    <string name="ok">موافق</string>
+    <string name="invalid_link">أدخل رابطاً صحيحاً (http/https)</string>
+    <string name="added_n">تمت إضافة %1$d تحميل</string>
+
+    <string name="empty_title">لا توجد تحميلات بعد</string>
+    <string name="empty_sub">اضغط + أو شارك رابطاً مع التطبيق</string>
+
+    <string name="action_pause">إيقاف مؤقت</string>
+    <string name="action_resume">استئناف</string>
+    <string name="action_open">فتح</string>
+    <string name="action_copy_link">نسخ الرابط</string>
+    <string name="action_delete">حذف</string>
+    <string name="action_redownload">إعادة التحميل</string>
+    <string name="delete_title">حذف التحميل</string>
+    <string name="delete_with_file">احذف الملف من الجهاز أيضاً</string>
+    <string name="menu_pause_all">إيقاف الكل</string>
+    <string name="menu_resume_all">استئناف الكل</string>
+    <string name="menu_clear_completed">مسح المكتملة</string>
+    <string name="search_hint">ابحث في التحميلات</string>
+    <string name="link_copied">تم نسخ الرابط</string>
+    <string name="no_app_open">لا يوجد تطبيق لفتح هذا الملف</string>
+    <string name="eta">متبقي %1$s</string>
+
+    <string name="clipboard_found">تم العثور على رابط في الحافظة</string>
+    <string name="clipboard_action">تحميل</string>
+
+    <string name="browser_hint">ابحث أو اكتب العنوان</string>
+    <string name="media_found">تم اكتشاف %1$d وسائط</string>
+    <string name="media_sheet_title">الوسائط المكتشفة</string>
+
+    <string name="settings_title">الإعدادات</string>
+    <string name="sec_appearance">المظهر</string>
+    <string name="theme">السمة</string>
+    <string name="theme_system">النظام</string>
+    <string name="theme_light">فاتح</string>
+    <string name="theme_dark">داكن</string>
+    <string name="amoled">أسود AMOLED</string>
+    <string name="amoled_sub">خلفية سوداء بالكامل في الوضع الداكن</string>
+    <string name="dynamic">الألوان الديناميكية</string>
+    <string name="dynamic_sub">استخدم ألوان الخلفية (أندرويد 12+)</string>
+    <string name="language">اللغة</string>
+    <string name="lang_system">النظام</string>
+    <string name="lang_en">English</string>
+    <string name="lang_ar">العربية</string>
+
+    <string name="sec_downloads">التحميل</string>
+    <string name="max_concurrent">التحميلات المتزامنة</string>
+    <string name="connections">الاتصالات لكل ملف</string>
+    <string name="connections_sub">كلما زادت الاتصالات زادت السرعة غالباً</string>
+    <string name="speed_limit">حد السرعة</string>
+    <string name="unlimited">بلا حد</string>
+    <string name="wifi_only">عبر Wi-Fi فقط</string>
+    <string name="wifi_only_sub">إيقاف التحميل عند استخدام بيانات الجوال</string>
+    <string name="clipboard_watch">اكتشاف الروابط من الحافظة</string>
+    <string name="clipboard_watch_sub">اقتراح تحميل الروابط المنسوخة</string>
+
+    <string name="sec_schedule">الجدولة</string>
+    <string name="schedule_enable">بدء مجدول يومياً</string>
+    <string name="schedule_enable_sub">بدء التحميلات المجدولة تلقائياً</string>
+    <string name="schedule_time">وقت البدء</string>
+
+    <string name="sec_about">حول التطبيق</string>
+    <string name="about_text">ProDM 1.0 — مدير تحميل محلي وخاص. بدون خوادم أو إعلانات أو تتبّع.\nتُحفظ الملفات في Downloads/ProDM.</string>
+
+    <string name="notif_done">اكتمل التحميل</string>
+    <string name="notif_failed">فشل التحميل</string>
+    <string name="notif_active">%1$d نشطة · %2$s</string>
+    <string name="notif_pause_all">إيقاف الكل</string>
+    <string name="channel_progress">تقدم التحميل</string>
+    <string name="channel_done">التحميلات المنتهية</string>
+</resources>
+      
