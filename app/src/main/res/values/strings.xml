@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProDM</string>
+    <string name="tab_downloads">Downloads</string>
+    <string name="tab_browser">Browser</string>
+    <string name="tab_settings">Settings</string>
+
+    <string name="filter_all">All</string>
+    <string name="filter_active">Active</string>
+    <string name="filter_paused">Paused</string>
+    <string name="filter_completed">Completed</string>
+    <string name="filter_failed">Failed</string>
+
+    <string name="status_queued">Queued</string>
+    <string name="status_downloading">Downloading</string>
+    <string name="status_paused">Paused</string>
+    <string name="status_completed">Completed</string>
+    <string name="status_failed">Failed</string>
+    <string name="status_scheduled">Scheduled</string>
+    <string name="status_finalizing">Saving file…</string>
+
+    <string name="total_speed">Total speed</string>
+    <string name="stat_active">Active</string>
+    <string name="stat_waiting">Waiting</string>
+    <string name="stat_done">Done</string>
+
+    <string name="add_title">New download</string>
+    <string name="add_hint">Paste one or more links (one per line)</string>
+    <string name="add_filename">File name (optional)</string>
+    <string name="add_later">Start later at the scheduled time</string>
+    <string name="add_start">Download</string>
+    <string name="cancel">Cancel</string>
+    <string name="paste">Paste</string>
+    <string name="ok">OK</string>
+    <string name="invalid_link">Enter a valid http/https link</string>
+    <string name="added_n">%1$d download(s) added</string>
+
+    <string name="empty_title">No downloads yet</string>
+    <string name="empty_sub">Tap + or share a link to this app</string>
+
+    <string name="action_pause">Pause</string>
+    <string name="action_resume">Resume</string>
+    <string name="action_open">Open</string>
+    <string name="action_copy_link">Copy link</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_redownload">Download again</string>
+    <string name="delete_title">Delete download</string>
+    <string name="delete_with_file">Also delete the file from the device</string>
+    <string name="menu_pause_all">Pause all</string>
+    <string name="menu_resume_all">Resume all</string>
+    <string name="menu_clear_completed">Clear completed</string>
+    <string name="search_hint">Search downloads</string>
+    <string name="link_copied">Link copied</string>
+    <string name="no_app_open">No app can open this file</string>
+    <string name="eta">%1$s left</string>
+
+    <string name="clipboard_found">Link found in clipboard</string>
+    <string name="clipboard_action">Download</string>
+
+    <string name="browser_hint">Search or type address</string>
+    <string name="media_found">%1$d media found</string>
+    <string name="media_sheet_title">Detected media</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="sec_appearance">Appearance</string>
+    <string name="theme">Theme</string>
+    <string name="theme_system">System</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="amoled">AMOLED black</string>
+    <string name="amoled_sub">Pure black background in dark mode</string>
+    <string name="dynamic">Dynamic colors</string>
+    <string name="dynamic_sub">Use wallpaper colors (Android 12+)</string>
+    <string name="language">Language</string>
+    <string name="lang_system">System</string>
+    <string name="lang_en">English</string>
+    <string name="lang_ar">العربية</string>
+
+    <string name="sec_downloads">Downloads</string>
+    <string name="max_concurrent">Simultaneous downloads</string>
+    <string name="connections">Connections per file</string>
+    <string name="connections_sub">More connections usually means higher speed</string>
+    <string name="speed_limit">Speed limit</string>
+    <string name="unlimited">Unlimited</string>
+    <string name="wifi_only">Wi-Fi only</string>
+    <string name="wifi_only_sub">Pause downloads on mobile data</string>
+    <string name="clipboard_watch">Clipboard link detection</string>
+    <string name="clipboard_watch_sub">Offer to download copied links</string>
+
+    <string name="sec_schedule">Scheduler</string>
+    <string name="schedule_enable">Daily scheduled start</string>
+    <string name="schedule_enable_sub">Automatically start downloads marked as scheduled</string>
+    <string name="schedule_time">Start time</string>
+
+    <string name="sec_about">About</string>
+    <string name="about_text">ProDM 1.0 — a local, private download manager. No servers, no ads, no tracking.\nFiles are saved to Downloads/ProDM.</string>
+
+    <string name="notif_done">Download complete</string>
+    <string name="notif_failed">Download failed</string>
+    <string name="notif_active">%1$d active · %2$s</string>
+    <string name="notif_pause_all">Pause all</string>
+    <string name="channel_progress">Download progress</string>
+    <string name="channel_done">Finished downloads</string>
+</resources>
